@@ -1,0 +1,46 @@
+*
+{
+	margin: 0px;
+	top: 0px;
+}
+
+body
+{
+	font-family: Arial;
+	background-image: url(../imagenes/fondo.jpg);
+}
+
+h1
+{
+	margin-top: 2em;
+	text-shadow: 5px 5px 5px #aaa;
+
+}
+
+#ecuacion
+{
+	display: inline-block;
+	text-align: right; 
+}
+
+#respuesta
+{
+	display: inline-block;
+	text-align: left;
+}
+
+
+.textoInicial
+{
+	color:red;
+	font-weight: bold;
+	text-shadow: 5px 5px 5px #aaa;
+	font-size: 2em;
+}
+
+#textRango
+{
+	margin-top: 20px;
+	font-size: 2em;
+    color:red;
+}
